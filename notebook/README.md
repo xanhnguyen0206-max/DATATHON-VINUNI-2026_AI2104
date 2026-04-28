@@ -2,7 +2,9 @@
 Thư mục này chứa toàn bộ quy trình xử lý dữ liệu, phân tích trực quan (EDA) và xây dựng mô hình dự báo doanh thu cho dự án Datathon 2026: The Gridbreaker. 
 
 🏗️ Cấu trúc Môi trường & Thư mục:
-Để code chạy chính xác mà không cần sửa đổi đường dẫn, vui lòng bố trí các thư mục theo sơ đồ sau: Plaintext:
+Để code chạy chính xác mà không cần sửa đổi đường dẫn, vui lòng bố trí các thư mục theo sơ đồ sau: 
+Plaintext:
+```
 ├── data/
 │   └── raw/                <-- Tải 15 file CSV từ Kaggle vào đây
 ├── notebooks/
@@ -10,6 +12,7 @@ Thư mục này chứa toàn bộ quy trình xử lý dữ liệu, phân tích t
 └── outputs/                <-- Tự động khởi tạo khi chạy code
     ├── charts/             <-- Lưu biểu đồ (Phần 2)
     └── tables/             <-- Lưu bảng phân tích (Phần 2)
+```
     
 📝 Thứ tự Thực hiện (Pipeline):
 Nhóm đã chia quy trình thành các bước logic để đảm bảo tính minh bạch và dễ theo dõi: 
