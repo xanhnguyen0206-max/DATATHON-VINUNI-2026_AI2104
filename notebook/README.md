@@ -1,5 +1,5 @@
 📂 Hướng dẫn Chạy mã nguồn (Notebooks):  
-- Thư mục này chứa toàn bộ quy trình xử lý dữ liệu, phân tích trực quan (EDA) và xây dựng mô hình dự báo doanh thu cho dự án Datathon 2026: The Gridbreaker.  
+* Thư mục này chứa toàn bộ quy trình xử lý dữ liệu, phân tích trực quan (EDA) và xây dựng mô hình dự báo doanh thu cho dự án Datathon 2026: The Gridbreaker.  
 
 🏗️ Cấu trúc Môi trường & Thư mục:  
 - Để code chạy chính xác mà không cần sửa đổi đường dẫn, vui lòng bố trí các thư mục theo sơ đồ sau:  
