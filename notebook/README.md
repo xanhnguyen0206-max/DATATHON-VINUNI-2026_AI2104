@@ -1,5 +1,5 @@
 📂 Hướng dẫn Chạy mã nguồn (Notebooks):  
-* Thư mục này chứa toàn bộ quy trình xử lý dữ liệu, phân tích trực quan (EDA) và xây dựng mô hình dự báo doanh thu cho dự án Datathon 2026: The Gridbreaker.  
+- Thư mục này chứa toàn bộ quy trình xử lý dữ liệu, phân tích trực quan (EDA) và xây dựng mô hình dự báo doanh thu cho dự án Datathon 2026: The Gridbreaker.  
 
 🏗️ Cấu trúc Môi trường & Thư mục:  
 - Để code chạy chính xác mà không cần sửa đổi đường dẫn, vui lòng bố trí các thư mục theo sơ đồ sau:  
@@ -15,18 +15,18 @@ Plaintext:
 ```
 
 🛠️ Cài đặt Môi trường (Environment Setup):  
-- Để đảm bảo code chạy ổn định và tương thích hoàn toàn với kết quả của nhóm, vui lòng sử dụng cấu hình sau:  
+Để đảm bảo code chạy ổn định và tương thích hoàn toàn với kết quả của nhóm, vui lòng sử dụng cấu hình sau:  
 + Python Version: 3.13.x  
 
-- Các thư viện chính:  
+Các thư viện chính:  
 
 + pandas: Xử lý và biến đổi 15 bảng dữ liệu.  
 + numpy: Tính toán số học và xử lý mảng.  
 + matplotlib & seaborn: Trực quan hóa dữ liệu và vẽ biểu đồ phân tích.  
 
-- Hướng dẫn cài đặt nhanh:  
-Sử dụng pip (Khuyên dùng):  
-Mở terminal (hoặc Command Prompt) tại thư mục gốc của dự án và chạy lệnh sau để cài đặt tất cả thư viện cần thiết:  
+Hướng dẫn cài đặt nhanh:  
++ Sử dụng pip (Khuyên dùng):  
++ Mở terminal (hoặc Command Prompt) tại thư mục gốc của dự án và chạy lệnh sau để cài đặt tất cả thư viện cần thiết:  
 ```
 Bash
 pip install pandas numpy matplotlib seaborn
