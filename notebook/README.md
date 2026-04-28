@@ -51,7 +51,7 @@ pip install pandas numpy matplotlib seaborn
 + Giải thích: Bao gồm phần giải thích tầm quan trọng của tính năng (Feature Importance/SHAP) theo ngôn ngữ kinh doanh.  
 
 ⚙️ Cấu hình Đường dẫn (Paths):  
-- Trong code, các đường dẫn được thiết lập theo dạng tương đối để đảm bảo tính linh động:  
+Trong code, các đường dẫn được thiết lập theo dạng tương đối để đảm bảo tính linh động:  
 + RAW_PATH = "../data/raw/": Đường dẫn đến bộ dữ liệu gốc (15 file CSV).  
 + TABLE_OUTPUT = "../outputs/tables/": Nơi lưu trữ các bảng thống kê kết quả.  
 + CHART_OUTPUT = "../outputs/charts/": Nơi lưu trữ các hình ảnh biểu đồ để đưa vào báo cáo NeurIPS. Lưu ý: Lệnh os.makedirs(..., exist_ok=True) đã được tích hợp để tự động tạo các thư mục đầu ra nếu chúng chưa tồn tại trên máy của bạn.  
