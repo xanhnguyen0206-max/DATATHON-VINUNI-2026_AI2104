@@ -1,1 +1,1 @@
-Bảng:
+CÁC BẢNG DỮ LIỆU PHỤC VỤ CHO VIỆC TẠO BIỂU ĐỒ.
