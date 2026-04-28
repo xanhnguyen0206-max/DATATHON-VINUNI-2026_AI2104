@@ -28,12 +28,12 @@ Github repository for our project
 |       └── 06_customer_frequency.csv
 |       └── 07_sales_anomalies.csv
 |       └── README.md         
-│   └── README.md           # Phân tích sơ lược
-├── submission/             # Chứa file kết quả cuối cùng để BTC đối chiếu (Phần 3)
+│   └── README.md                 # Phân tích sơ lược
+├── submission/                   # Chứa file kết quả cuối cùng để BTC đối chiếu (Phần 3)
 │   └── submission.csv
-├── reports/                # Thư mục chứa báo cáo PDF(LaTex) nộp cho BTC
+├── reports/                      # Thư mục chứa báo cáo PDF(LaTex) nộp cho BTC
 │   └── Bao_cao_Vong1_AI2104.pdf
-├── .gitignore              # Quan trọng: Để chặn các file csv nặng bị đẩy lên nhầm
-├── README.md               # Tổng quan dự án, link Kaggle và hướng dẫn chạy code
-└── requirements.txt        # Danh sách thư viện (pandas, numpy, scikit-learn...)
+├── .gitignore                    # Quan trọng: Để chặn các file csv nặng bị đẩy lên nhầm
+├── README.md                     # Tổng quan dự án, link Kaggle và hướng dẫn chạy code
+└── requirements.txt              # Danh sách thư viện (pandas, numpy, scikit-learn...)
 ```
