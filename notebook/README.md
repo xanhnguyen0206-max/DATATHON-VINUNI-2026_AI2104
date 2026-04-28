@@ -13,7 +13,25 @@ Plaintext:
     ├── charts/             <-- Lưu biểu đồ (Phần 2)
     └── tables/             <-- Lưu bảng phân tích (Phần 2)
 ```
-    
+
+🛠️ Cài đặt Môi trường (Environment Setup):  
+- Để đảm bảo code chạy ổn định và tương thích hoàn toàn với kết quả của nhóm, vui lòng sử dụng cấu hình sau:  
++ Python Version: 3.13.x  
+
+- Các thư viện chính:  
+
++ pandas: Xử lý và biến đổi 15 bảng dữ liệu.  
++ numpy: Tính toán số học và xử lý mảng.  
++ matplotlib & seaborn: Trực quan hóa dữ liệu và vẽ biểu đồ phân tích.  
+
+- Hướng dẫn cài đặt nhanh:  
+Sử dụng pip (Khuyên dùng):  
+Mở terminal (hoặc Command Prompt) tại thư mục gốc của dự án và chạy lệnh sau để cài đặt tất cả thư viện cần thiết:  
+```
+Bash
+pip install pandas numpy matplotlib seaborn
+```
+  
 📝 Thứ tự Thực hiện (Pipeline):  
 - Nhóm đã chia quy trình thành các bước logic để đảm bảo tính minh bạch và dễ theo dõi:  
 
