@@ -9,9 +9,10 @@ Plaintext:
 │   └── raw/                <-- Tải 15 file CSV từ Kaggle vào đây
 ├── notebooks/
 │   └── [CÁC_FILE_NOTEBOOK].ipynb
-└── outputs/                <-- Tự động khởi tạo khi chạy code
-    ├── charts/             <-- Lưu biểu đồ (Phần 2)
-    └── tables/             <-- Lưu bảng phân tích (Phần 2)
+├── outputs/                <-- Tự động khởi tạo khi chạy code
+│   ├── charts/             <-- Lưu biểu đồ (Phần 2)
+│   └── tables/             <-- Lưu bảng phân tích (Phần 2)
+└── requirements.txt
 ```
 
 🛠️ Cài đặt môi trường:  
