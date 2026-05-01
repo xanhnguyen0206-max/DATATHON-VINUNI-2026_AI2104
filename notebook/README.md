@@ -37,10 +37,12 @@ Các thư viện chính:
 + Phương pháp: Sử dụng thư viện Pandas để thực hiện các thao tác Join bảng, GroupBy và tính toán thống kê để đưa ra con số chính xác nhất cho từng câu hỏi: Q1 - Q10.  
 + VD: Các câu hỏi từ tính toán trung vị khoảng cách đơn hàng (Gap analysis), tỷ suất lợi nhuận gộp theo phân khúc, đến phân tích hành vi trả hàng theo kích thước sản phẩm.   
 
+```
 Hướng dẫn chạy phần 1:  
 + Bạn hãy tạo 1 file.py ở thư mục chính.  
 + Copy code từ 01_mcq.ipynb cho mỗi câu trắc nghiệm.  
-+ Click chuột phải vào file và ấn Run Python File In Terminal.  
++ Click chuột phải vào file và ấn Run Python File In Terminal.
+```
 
 (02_eda.ipynb)  
 + Mục tiêu: Thực hiện Phân tích Khám phá Dữ liệu (EDA) để giải quyết Phần 2 của đề thi.  
@@ -51,6 +53,21 @@ Hướng dẫn chạy phần 1:
 + Mục tiêu: Xây dựng mô hình dự báo cho Phần 3.  
 + Nội dung: Tiền xử lý dữ liệu từ 15 bảng, kỹ thuật đặc trưng (Feature Engineering), huấn luyện mô hình, và đánh giá qua các chỉ số MAE, RMSE, $R^{2}$.  
 + Giải thích: Bao gồm phần giải thích tầm quan trọng của tính năng (Feature Importance/SHAP) theo ngôn ngữ kinh doanh.  
+
+```
+Hướng dẫn chạy phần 2 và 3 :
+🧠 Jupyter Notebook Setup (VSCode)
+Khi mở file .ipynb trong VSCode:
+Chọn Python Interpreter ở góc trên bên phải (khuyến nghị Python 3.13+)
+Nhấn Run All
+
+👉 Thông thường, VSCode sẽ tự động yêu cầu cài Jupyter nếu chưa có.
+Chỉ cần bấm Install và chờ hoàn tất là có thể chạy notebook bình thường.
+
+Nếu không thấy prompt cài đặt, bạn có thể cài thủ công:
+
+pip install notebook ipykernel
+```
 
 ⚙️ Cấu hình Đường dẫn (Paths):  
 Trong code, các đường dẫn được thiết lập theo dạng tương đối để đảm bảo tính linh động:  
