@@ -12,6 +12,8 @@ Plaintext:
 ├── outputs/                <-- Tự động khởi tạo khi chạy code
 │   ├── charts/             <-- Lưu biểu đồ (Phần 2)
 │   └── tables/             <-- Lưu bảng phân tích (Phần 2)
+├── submission/                  
+│   └── submission.csv
 └── requirements.txt
 ```
 
