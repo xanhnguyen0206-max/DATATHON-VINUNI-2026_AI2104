@@ -14,7 +14,7 @@ Plaintext:
 │   └── tables/             <-- Lưu bảng phân tích (Phần 2)
 ├── submission/                  
 │   └── submission.csv
-└── requirements.txt
+└── requirements.txt        # chứa tên thư viện cần tải
 ```
 
 🛠️ Cài đặt môi trường:  
@@ -36,6 +36,11 @@ Các thư viện chính:
 + Mục tiêu: Thực hiện các bước tính toán để trả lời cho 10 câu hỏi trắc nghiệm của Phần 1.  
 + Phương pháp: Sử dụng thư viện Pandas để thực hiện các thao tác Join bảng, GroupBy và tính toán thống kê để đưa ra con số chính xác nhất cho từng câu hỏi: Q1 - Q10.  
 + VD: Các câu hỏi từ tính toán trung vị khoảng cách đơn hàng (Gap analysis), tỷ suất lợi nhuận gộp theo phân khúc, đến phân tích hành vi trả hàng theo kích thước sản phẩm.   
+
+Hướng dẫn chạy phần 1:  
++ Bạn hãy tạo 1 file.py ở thư mục chính.  
++ Copy code từ 01_mcq.ipynb cho mỗi câu trắc nghiệm.  
++ Click chuột phải vào file và ấn Run Python File In Terminal.  
 
 (02_eda.ipynb)  
 + Mục tiêu: Thực hiện Phân tích Khám phá Dữ liệu (EDA) để giải quyết Phần 2 của đề thi.  
