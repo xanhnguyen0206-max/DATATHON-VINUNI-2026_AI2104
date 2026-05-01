@@ -1,5 +1,5 @@
 # DATATHON-VINUNI-2026_AI2104
-Github repository for our project
+Github repository for our project (Cấu trúc của github repository)
 
 ```
 ├── data/
