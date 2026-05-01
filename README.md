@@ -1,5 +1,5 @@
 # DATATHON-VINUNI-2026_AI2104
-FILE README.md tổng quan cấu trúc.  
+(FILE README.md tổng quan cấu trúc)    
 Github repository for our project (Cấu trúc của github repository).  
 Trong từng thư mục sẽ có các file README.md hướng dẫn riêng.      
 
